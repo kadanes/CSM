@@ -2,3 +2,5 @@
 /.metadata/
 *.class
 /*/bin/
+*.rtf
+.DS_STORE

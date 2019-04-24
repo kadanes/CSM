@@ -128,10 +128,9 @@ public class Gap {
 		System.out.println("Max Diff: " + maxDiff + " D: " + D);
 		
 		if (D > maxDiff) {
-			System.out.println("Hypothisis of independence not rejected");
+			System.out.println("Hypothesis of independence not rejected");
 		} else {
-			System.out.println("Hypothisis of independence rejected");
-
+			System.out.println("Hypothesis of independence rejected");
 		}
 		
 	}

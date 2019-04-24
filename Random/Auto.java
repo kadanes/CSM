@@ -35,9 +35,9 @@ class Auto {
 
         System.out.println(z);
         if ( z < 1.96 && z > -1.96) {
-            System.out.println("Hpyothesis of independence Not rejected");
+            System.out.println("Hypothesis of independence Not rejected");
         } else {
-            System.out.println("Hpyothesis of independence rejected");
+            System.out.println("Hypothesis of independence rejected");
         }
     }
 }
